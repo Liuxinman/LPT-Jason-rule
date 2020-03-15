@@ -1,7 +1,7 @@
 /*******************************************************************
  * a3.c                                                            *
  * Submitting student: Xinman Liu                                  *
- * Student ID:1546200                                              *
+ * Student ID:                                                     *
  * Collaborating classmates: No                                    *
  * Other collaborators: No                                         *
  * References (excluding textbook and lecture slides): No          *
