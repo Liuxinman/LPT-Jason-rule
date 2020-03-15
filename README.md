@@ -1,4 +1,4 @@
-# LPT-Jason-rule
+# LPT-Johnson-rule
 This is a course project. It is created by Xinman Liu.
 
 C language is used to implment longest processing time(LPT) rule and Johnson's rule.
